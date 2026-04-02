@@ -1,49 +1,63 @@
 <h1 align="center">👨‍💻 Henrique Santos Silva</h1>
 
 <p align="center">
-Desenvolvedor backend em formação | Java & Spring Boot
+  Backend Developer in progress | Java & Spring Boot
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Enthusiast;Building+REST+APIs;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🚀 Tecnologias
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,docker" />
 </p>
 
 ---
 
-## 🌍 Idiomas
-- Inglês: C1 (Avançado – Proficiência profissional)
+## 🌍 Languages
+<p align="center">
+  English: C1 (Advanced – Professional proficiency)
+</p>
 
 ---
 
-## 📚 Em evolução
-- Microsserviços
-- Docker
-- AWS
+## 🧠 About Me
+<p align="center">
+Focused on backend development with Java, building REST APIs and improving system design skills.<br/>
+Always learning, always evolving.
+</p>
 
 ---
 
-## 🎯 Objetivo
-Me tornar desenvolvedor backend Java e trabalhar com sistemas escaláveis
+## 🎯 Current Focus
+<p align="center">
+✔ Java & Spring Boot <br/>
+✔ REST APIs <br/>
+✔ Clean Code & Best Practices <br/>
+✔ Backend Architecture
+</p>
 
 ---
 
-## 🚀 Projetos em destaque
-🔹 Em construção... (novos projetos em breve)
+## 🚀 Featured Projects
+<p align="center">
+🔹 Coming soon... (building real-world projects)
+</p>
 
 ---
 
-## 📌 Foco atual
-- Aprimorando Java e Spring Boot
-- Construindo APIs REST
-- Evoluindo em banco de dados e boas práticas
+## 📈 Growth Mindset
+<p align="center">
+Consistency beats talent.<br/>
+Building real projects every day to become a professional developer.
+</p>
 
 ---
 
-## 📈 Evolução
-Buscando evolução constante através de projetos práticos e estudo diário.
+## ⚡ Fun Fact
+<p align="center">
+I turn coffee ☕ into code 💻
+</p>
